@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Galactic Exploration",
+        "location": "Corvus, Jangala",
+        "speaker": "Dr. Elizabeth Smith",
+        "type": "conference",
+        "time": {
+            "start": "2022-03-10T09:00:00",
+            "end": "2022-03-10T17:00:00"
+        }
+    },
+    {
+        "name": "Space Travel Innovations",
+        "location": "Stellaris Convention Center",
+        "speaker": "Professor John Anderson",
+        "type": "workshop",
+        "time": {
+            "start": "2022-04-05T13:30:00",
+            "end": "2022-04-05T16:00:00"
+        }
+    },
+    {
+        "name": "Alien Species Symposium",
+        "location": "Galaxy Hall, Nova City",
+        "speaker": "Dr. Samantha Adams",
+        "type": "seminar",
+        "time": {
+            "start": "2022-05-18T10:00:00",
+            "end": "2022-05-18T12:30:00"
+        }
+    },
+    {
+        "name": "Astrobiology Conference",
+        "location": "Starhaven Institute",
+        "speaker": "Dr. Michael Roberts",
+        "type": "conference",
+        "time": {
+            "start": "2022-06-22T09:30:00",
+            "end": "2022-06-23T17:00:00"
+        }
+    },
+    {
+        "name": "Interstellar Engineering Symposium",
+        "location": "Corvus, Jangala",
+        "speaker": "Professor Emily Davis",
+        "type": "symposium",
+        "time": {
+            "start": "2022-07-15T14:00:00",
+            "end": "2022-07-15T18:00:00"
+        }
+    },
+    {
+        "name": "Space Art Exhibition",
+        "location": "Cosmic Gallery, Stellaris",
+        "speaker": "Various Artists",
+        "type": "exhibition",
+        "time": {
+            "start": "2022-08-20T11:00:00",
+            "end": "2022-08-20T17:00:00"
+        }
+    },
+    {
+        "name": "Galactic History Symposium",
+        "location": "Universal Archives, Corvus",
+        "speaker": "Dr. Benjamin Thompson",
+        "type": "symposium",
+        "time": {
+            "start": "2022-09-05T09:30:00",
+            "end": "2022-09-05T17:00:00"
+        }
+    },
+    {
+        "name": "Future of Space Travel",
+        "location": "Stellaris Convention Center",
+        "speaker": "Dr. Katherine Roberts",
+        "type": "conference",
+        "time": {
+            "start": "2022-10-15T10:00:00",
+            "end": "2022-10-15T12:30:00"
+        }
+    }
+]
